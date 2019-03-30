@@ -1,0 +1,8 @@
+initialized SSD1306
+font width 20, font height 32
+font width 15, font height 24
+font width 10, font height 16
+x_res 128, y_res 32, ppt 8, rows 4, cols 128
+***** Booting Zephyr OS v1.14.0-rc1-1352-g3ebd9b4a09dc *****
+[00:00:00.007,476] <dbg> cfb.cfb_framebuffer_init: number of fonts 3
+
